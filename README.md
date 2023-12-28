@@ -14,6 +14,6 @@ Proiectul curent este o aplicație iOS dezvoltată în Swift cu utilizarea frame
 
 - Dezvoltarea în Swift și utilizarea framework-ului UIKit pentru crearea de aplicații iOS.
 - Implementarea apelurilor de rețea pentru interacțiunea cu API-uri externe și manipularea datelor JSON.
-- Utilizarea conceptelor de model-view-controller (MVC) pentru structurarea codului.
+- Utilizarea conceptelor de model-view-viewmodel (MVVM) pentru structurarea codului.
 - Gestionarea interfeței utilizatorului cu ajutorul Storyboard-ului și gestionarea tranzacțiilor de navigație între ecrane.
 
