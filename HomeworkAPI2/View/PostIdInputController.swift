@@ -1,10 +1,3 @@
-//
-//  PostIdInputController.swift
-//  curs14dec_URLSchemes
-//
-//  Created by Orlando Neacsu on 14.12.2023.
-//
-
 import UIKit
 
 final class PostIdInputController: UIViewController {

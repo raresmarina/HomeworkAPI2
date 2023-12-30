@@ -1,10 +1,3 @@
-//
-//  PostModel.swift
-//  curs14dec_URLSchemes
-//
-//  Created by Orlando Neacsu on 14.12.2023.
-//
-
 import Foundation
 
 struct Post: Decodable {

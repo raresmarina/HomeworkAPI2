@@ -1,10 +1,3 @@
-//
-//  CommentDetailsViewModel.swift
-//  curs14dec_URLSchemes
-//
-//  Created by Rares Marina on 12/27/23.
-//
-
 import Foundation
 
 protocol CommentDetailsViewModelDelegate: AnyObject {
